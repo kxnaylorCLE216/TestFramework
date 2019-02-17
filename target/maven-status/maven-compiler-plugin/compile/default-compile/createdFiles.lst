@@ -1,6 +1,6 @@
 test/utility/CommonLib.class
-pages/InputLabels.class
 data/provider/ConfigReader.class
+pages/InputLabels.class
 pages/CheckBoxLabels.class
 pages/RadioLabels.class
 pages/LoginPage.class
